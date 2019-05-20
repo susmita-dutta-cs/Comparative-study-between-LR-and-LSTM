@@ -13,3 +13,4 @@ An analysis of the results also indicate that LSTM gives better accuracy when th
 dataset is big. With more data, more patterns can be extracted out by the model, and the
 weights of the layers can be better adjusted whereas Linear regression smaller the data more
 the accuracy it reflected. A huge dataset lowers the accuracy of Linear Regression.
+![image](https://user-images.githubusercontent.com/39657368/58025389-a3d94b80-7b14-11e9-83a4-743a3d27493f.png)
